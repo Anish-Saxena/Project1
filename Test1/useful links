@@ -2,3 +2,5 @@ Using SQL to store fields in C++:
 http://www.codeguru.com/cpp/data/database-programming-with-cc.html
 System color function attributes:
 http://4.bp.blogspot.com/-qZpulfJsUVU/UuVDiy9zZ4I/AAAAAAAACfw/-duycJ4kPi0/s1600/color.png
+Feed data to excel through windows form:
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/interop/how-to-access-office-onterop-objects
